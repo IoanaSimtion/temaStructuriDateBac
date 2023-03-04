@@ -129,6 +129,18 @@
   <ItemGroup>
     <ClCompile Include="temaStructuriDateBac.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="node.h" />
+    <ClInclude Include="varianta1.h" />
+    <ClInclude Include="varianta10.h" />
+    <ClInclude Include="varianta11.h" />
+    <ClInclude Include="varianta2.h" />
+    <ClInclude Include="varianta4.h" />
+    <ClInclude Include="varianta6.h" />
+    <ClInclude Include="varianta7.h" />
+    <ClInclude Include="varianta8.h" />
+    <ClInclude Include="varianta9.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
