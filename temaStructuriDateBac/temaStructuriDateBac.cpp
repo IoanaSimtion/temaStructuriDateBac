@@ -6,7 +6,15 @@
 //#include "varianta8.h";
 //#include "varianta9.h";
 //#include "varianta10.h";
-#include "varianta11.h";
+//#include "varianta11.h";
+//#include "varianta12.h";
+//#include "varianta13.h";
+//#include "varianta15.h";
+//#include "varianta16.h";
+//#include "varianta21.h";
+//#include "varianta26.h";
+//#include "varianta28.h";
+#include "varianta31.h";
 
 int main()
 {
@@ -26,7 +34,25 @@ int main()
 
 	//sol10();
 
-	sol11();
+	//sol11();
+
+	//sol12();
+
+	//sol13();
+
+	//sol15();
+
+	//sol16();
+
+	//sol21();
+
+	//sol26();
+
+	//sol28();
+
+	//cout << aceeasiLitera("ANAm");
+
+	sol31();
 
 
 }
