@@ -130,8 +130,14 @@
     <ClCompile Include="temaStructuriDateBac.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="test1.h" />
     <ClInclude Include="node.h" />
     <ClInclude Include="node2.h" />
+    <ClInclude Include="test2.h" />
+    <ClInclude Include="test3.h" />
+    <ClInclude Include="test4.h" />
+    <ClInclude Include="test5.h" />
+    <ClInclude Include="test6.h" />
     <ClInclude Include="varianta1.h" />
     <ClInclude Include="varianta10.h" />
     <ClInclude Include="varianta11.h" />
@@ -151,8 +157,14 @@
     <ClInclude Include="varianta9.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="bac.txt" />
     <Text Include="cuvinte.txt" />
+    <Text Include="matr.txt" />
+    <Text Include="matrice.txt" />
     <Text Include="numere.txt" />
+    <Text Include="vector.txt" />
+    <Text Include="vector2.txt" />
+    <Text Include="zPrietene.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

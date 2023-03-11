@@ -14,7 +14,13 @@
 //#include "varianta21.h";
 //#include "varianta26.h";
 //#include "varianta28.h";
-#include "varianta31.h";
+//#include "varianta31.h";
+//#include "test1.h";
+//#include "test2.h";
+//#include "test3.h";
+//#include "test4.h";
+//#include "test5.h";
+#include "test6.h";
 
 int main()
 {
@@ -52,7 +58,51 @@ int main()
 
 	//cout << aceeasiLitera("ANAm");
 
-	sol31();
+	//sol31();
+
+	//cout << cifreParitateDif(12384);
+
+	//cout << sumaCifr(1234);
+
+	//sol2();
+
+	//sol3();
+
+	//cout << factori(16500, 10780);
+
+	
+	/*int a[100][100], n = 5;
+
+	generareMatrice(a, n);*/
+
+	//secventa();
+
+	//sol3();
+
+	//cout << joc(12);
+
+	/*int a[100][100], n, m;
+
+	citireMatrice(a, m, n);
+
+	afisareLiniiMax(a, m, n);*/
+
+	/*int v[100], d;
+
+	citireVector(v, d);
+
+	afisareMax(v, d);*/
+
+	//cout << numar(123451224, 2, 0);
+
+	/*int a[100][100], n=5;
+
+	generareMatrice(a, n);*/
+
+
+
+
+
 
 
 }

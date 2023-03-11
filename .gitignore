@@ -351,3 +351,5 @@ MigrationBackup/
 
 *.vcxproj
 *.filters
+*.vcxproj
+*.filters

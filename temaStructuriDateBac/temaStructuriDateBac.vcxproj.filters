@@ -77,6 +77,24 @@
     <ClInclude Include="varianta31.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="test1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="numere.txt">
@@ -84,6 +102,24 @@
     </Text>
     <Text Include="cuvinte.txt">
       <Filter>Header Files</Filter>
+    </Text>
+    <Text Include="vector.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="bac.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="zPrietene.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="matrice.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="matr.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="vector2.txt">
+      <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
 </Project>
